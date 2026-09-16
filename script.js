@@ -8,3 +8,9 @@ fetch("events.json")
       list.appendChild(item);
     });
   });
+
+  let userName = "Aris";
+  let admin;
+
+  admin = userName;
+  alert( `Welcome ${admin}` );
